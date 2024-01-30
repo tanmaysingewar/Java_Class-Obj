@@ -6,7 +6,6 @@ public class Main {
         System.out.println(p1.color);
         p1.setTip(5);
         System.out.println(p1.penTip);
-
     }
 }
 
